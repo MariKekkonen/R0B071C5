@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #Mari Kekkonen/Robots of Ni
-#koodi kolmostehtävää varten; jäi kesken
+##Python code created during Robot Uprising 2018 hackathon, Helsinki, Finland 
 
 from ev3dev2.motor import LargeMotor, OUTPUT_A, OUTPUT_B, SpeedPercent, MoveTank
 from ev3dev2.sensor import INPUT_1
